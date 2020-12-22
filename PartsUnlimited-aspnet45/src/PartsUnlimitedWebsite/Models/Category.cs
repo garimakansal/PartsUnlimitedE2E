@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-// this is my first code for CGI demo 1
+// this is my first code for CGI demo 2
 namespace PartsUnlimited.Models
 {
     public class Category
